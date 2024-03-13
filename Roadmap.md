@@ -9,6 +9,7 @@ channel:
 
 tick
 - traffic /traffic get
+- connections /connections get
 
 one-off
 - version /version get

@@ -1,0 +1,10 @@
+mainly refer to https://www.v2fly.org/config/routing.html
+
+Several agreements:
+- proxy uses string as id
+
+Supported formats
+- Clash classic
+  - https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash
+
+Note domain suffix: https://clash-meta.gitbook.io/clash.meta-wiki-old-1/config/yaml#tong-pei-fu
